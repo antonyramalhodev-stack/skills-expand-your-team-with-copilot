@@ -14,6 +14,7 @@ This is a fictional checklist for a training exercise.
 
 - Repository observations: README.md was inspected. It is a course-completion page with sharing links and a link back to the exercise. The `docs/` folder already contains `how-to-develop.md`.
 - Not run: application tests, linters, builds, and deployment.
+- Review records must identify the checked version and missing evidence.
 
 This checklist is not evidence that the application works.
 
