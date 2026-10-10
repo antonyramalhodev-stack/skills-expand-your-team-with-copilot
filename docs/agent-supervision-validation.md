@@ -12,11 +12,10 @@ This is a fictional checklist for a training exercise.
 
 ## Evidence
 
-- README.md was inspected. It is a course-completion page with sharing links and a link back to the exercise.
-- The `docs/` folder already contains `how-to-develop.md`.
-- Application tests: not run.
-- Linters and builds: not run.
-- Deployment: not run.
+- Repository observations: README.md was inspected. It is a course-completion page with sharing links and a link back to the exercise. The `docs/` folder already contains `how-to-develop.md`.
+- Not run: application tests, linters, builds, and deployment.
+
+This checklist is not evidence that the application works.
 
 ## Human acceptance
 
