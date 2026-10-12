@@ -2,13 +2,15 @@
 
 Marker: TRAINING-UI-AUDIT-2026-10-12
 
+Fictional checklist; this file is not evidence of completed UI or application checks.
+
 ## Scope
-- [x] Verify training documentation layout and typography
-- [x] Check button alignment and contrast
+- [ ] Verify training documentation layout and typography
+- [ ] Check button alignment and contrast
 
 ## Evidence
-- [x] Inspect desktop and mobile responsive views
-- [x] Record visual verification logs
+- [ ] Inspect desktop and mobile responsive views
+- [ ] Record visual verification logs
 
 ## Human acceptance
-- [x] A human checks the version and missing evidence before accepting the result.
+- [ ] A human checks the version and missing evidence before accepting the result.
