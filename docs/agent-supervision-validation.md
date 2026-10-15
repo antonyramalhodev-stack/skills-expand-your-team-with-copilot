@@ -21,3 +21,4 @@ This checklist is not evidence that the application works.
 ## Human acceptance
 
 A human owner checks the evidence before accepting the change.
+Record the decision, the version checked, and the reviewer's name in a comment on the pull request.
